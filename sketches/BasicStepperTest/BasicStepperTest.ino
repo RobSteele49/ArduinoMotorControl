@@ -7,6 +7,8 @@
   - No motor required
 
   Board: Arduino Uno R3
+
+  Need to test with motors, but the code did seem to work.
 */
 
 const int DIR_PIN    = 2;   // Arbitrary digital pin
